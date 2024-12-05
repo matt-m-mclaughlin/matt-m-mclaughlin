@@ -11,6 +11,7 @@ You fall, you learn, you get back up again.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![GraphQL](https://img.shields.io/badge/GraphQl-000?logo=graphql)
+![C#](https://img.shields.io/badge/c%23-000?logo=csharp)
 ![Java](https://img.shields.io/badge/Java-000?logo=openjdk)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
 
