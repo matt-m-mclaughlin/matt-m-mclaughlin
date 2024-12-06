@@ -1,9 +1,6 @@
 # Hi :wave:, I'm Matthew McLaughlin
 
-I build scalable solutions.  I also ski.
-
-Both of these require a similar mindset:
-You fall, you learn, you get back up again.
+I'm a full stack software engineer with a passion for building scalable systems and solving complex technical challenges.
 
 ### Languages
 
